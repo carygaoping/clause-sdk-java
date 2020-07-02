@@ -29,7 +29,7 @@ public class ClauseClientTest
 
     // constants
     private final static String CLAUSE_IP = "gamera";
-    private final static int CLAUSE_PORT = 17056;
+    private final static int CLAUSE_PORT = 77777;
 
     // 字母开头的字符串[a-zA-Z0-9_]
     private final static String CHATBOT_ID = "avtr002";
